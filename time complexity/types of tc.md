@@ -5,4 +5,4 @@ types:::
 
 linear time complexity (o(n)):
 
-[time complexity\linear time complexity.py]
+[time complexity/linear time complexity.py]
