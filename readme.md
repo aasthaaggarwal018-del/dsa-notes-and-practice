@@ -11,9 +11,9 @@
     <a href="https://github.com/YOUR_USERNAME/dsa-notes-and-practice/pulls">
       <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome">
     </a>
-    <a href="https://github.com/YOUR_USERNAME/dsa-notes-and-practice/stargazers">
-      <img src="https://img.shields.io/github/stars/YOUR_USERNAME/dsa-notes-and-practice?style=for-the-badge&color=yellow" alt="GitHub Stars">
-    </a>
+    
+      
+    
   </p>
 </p>
 
